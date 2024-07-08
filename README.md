@@ -1,3 +1,3 @@
-# Epsilon-AI-Intern
+# Epsilon AI Diploma
 ##   Python Projects 
 ##  Scrapping Projects 
